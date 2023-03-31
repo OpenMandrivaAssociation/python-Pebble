@@ -1,6 +1,6 @@
 Name:		python-Pebble
 Version:	5.0.3
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/P/Pebble/Pebble-%{version}.tar.gz
 Summary:	Threading and multiprocessing eye-candy.
 URL:		https://pypi.org/project/Pebble/
