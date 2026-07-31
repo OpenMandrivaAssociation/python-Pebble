@@ -2,7 +2,7 @@
 %define oname pebble
 
 Name:		python-Pebble
-Version:	5.2.0
+Version:	5.2.1
 Release:	1
 Summary:	Threading and multiprocessing eye-candy.
 License:	LGPL
